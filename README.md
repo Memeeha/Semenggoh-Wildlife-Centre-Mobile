@@ -7,13 +7,13 @@ COS30049 COMPUTING TECHNOLOGY INNOVATION PROJECT
 
 You can download the React Native app zip file here:
 
-[Download COS30049 Mobile.zip (React Native App)]([https://firebasestorage.googleapis.com/v0/b/test-9d9ca.appspot.com/o/Mobile%2FCOS30049%20Mobile.zip?alt=media](https://firebasestorage.googleapis.com/v0/b/test-9d9ca.firebasestorage.app/o/Mobile%2FCOS30049%20Mobile.zip?alt=media&token=44b6751b-eb05-4c37-a099-de0eac5fb370))
+[Download COS30049 Mobile.zip (React Native App)](https://firebasestorage.googleapis.com/v0/b/test-9d9ca.firebasestorage.app/o/Mobile%2FCOS30049%20Mobile.zip?alt=media&token=44b6751b-eb05-4c37-a099-de0eac5fb370)
 
 ## Plant Detector (Dataset and Train Model)
 
 You can download the dataset and train model zip file here:
 
-[Download Plant Detector.zip (Dataset and Train Model)]([https://firebasestorage.googleapis.com/v0/b/test-9d9ca.appspot.com/o/Mobile%2FPlant%20Detector.zip?alt=media](https://firebasestorage.googleapis.com/v0/b/test-9d9ca.firebasestorage.app/o/Mobile%2FPlant%20Detector.zip?alt=media&token=646c01f3-abd6-489e-8a7e-383e50ba4ad0))
+[Download Plant Detector.zip (Dataset and Train Model)](https://firebasestorage.googleapis.com/v0/b/test-9d9ca.firebasestorage.app/o/Mobile%2FPlant%20Detector.zip?alt=media&token=646c01f3-abd6-489e-8a7e-383e50ba4ad0)
 
 ## Description
 
